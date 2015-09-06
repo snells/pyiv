@@ -1,5 +1,5 @@
 # pyiv
-Image viewer made python.
+Simple image viewer made with python using gtk3.
 
 
 <h3>Keys</h3>
